@@ -1,0 +1,25 @@
+{
+  "name": "kodilla-sass-cut-site",
+  "version": "1.0.0",
+  "description": "Example grunt project with my site",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "kodilla-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LBaraniak/kodilla_sass_cut_site.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Lukasz Baraniak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LBaraniak/kodilla_sass_cut_site/issues"
+  },
+  "homepage": "https://github.com/LBaraniak/kodilla_sass_cut_site#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
+}
