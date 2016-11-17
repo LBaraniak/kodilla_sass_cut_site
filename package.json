@@ -20,6 +20,9 @@
   },
   "homepage": "https://github.com/LBaraniak/kodilla_sass_cut_site#readme",
   "devDependencies": {
-    "grunt": "^1.0.1"
+    "grunt": "^1.0.1",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^1.2.1"
   }
 }
